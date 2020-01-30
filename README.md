@@ -12,4 +12,4 @@ Bloxorz is a puzzle whose objective is to transport a block through successive b
 
 The block can move up, down, left and right and can be positioned either upright, occupying only one square of the game board, or lying down, occupying two spaces on the board. The puzzle is only completed when the block is positioned upright in the target square. There are also some bonuses that allow the block to be directly transported from one house to another (teleportation) or to unlock / block additional houses.
 
-The search algorithms implemented were Depth-First Search (DFS), Breadth-First Search (BFS), greedy, iterative and A *.
+The search algorithms implemented were Depth-First Search (DFS), Breadth-First Search (BFS), greedy, Iterative Deepening Search and A *.
